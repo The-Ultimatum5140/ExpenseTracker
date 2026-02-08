@@ -1,0 +1,4 @@
+- [x] Add content to delete button in createTransactionElement (e.g., '×')
+- [x] Implement removeTransaction function to delete transaction by id
+- [x] Complete updateSummary function to calculate and display balance, income, expense
+- [x] Add initialization on page load to call updateTransactionList and updateSummary
